@@ -10,5 +10,5 @@
 
 ### 📚 Contents
 
-1. [Introduction to Python Programming](#pengenalan-pemrograman-python) [[📂](https://github.com/RaharditoDio/Hackathon-Kemenkeu-2021/blob/main/Introduction%20to%20Python%20Programming.ipynb)] [Introduction]
-1. [Exploratory Data Analysis](#pengenalan-pemrograman-python) [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Exploratory%20Data%20Analysis.ipynb)] [Introduction]
+1. [Introduction to Python Programming] [[📂](https://github.com/RaharditoDio/Hackathon-Kemenkeu-2021/blob/main/Introduction%20to%20Python%20Programming.ipynb)] 
+1. [Exploratory Data Analysis] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Exploratory%20Data%20Analysis.ipynb)] [Introduction]
