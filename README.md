@@ -16,3 +16,4 @@
 4. [Linier Regression] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Linier%20Regression.ipynb)]
 5. [Classification] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Classification.ipynb)]
 6. [Time Series Analysis] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Time%20Series%20Analysis.ipynb)]
+7. [Pandas and Prediction Stock Finance] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Pandas%20and%20Prediction%20Stock%20Finance.ipynb)]
