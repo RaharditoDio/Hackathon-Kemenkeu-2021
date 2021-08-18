@@ -15,3 +15,4 @@
 3. [Data Cleansing dan Feature Engineering] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Data%20Cleansing%20dan%20Feature%20Engineering.ipynb)]
 4. [Linier Regression] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Linier%20Regression.ipynb)]
 5. [Classification] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Classification.ipynb)]
+6. [Time Series Analysis] [[📂](https://github.com/RaharditoDio/Kemenkeu-Hackathon-2021/blob/main/Time%20Series%20Analysis.ipynb)]
